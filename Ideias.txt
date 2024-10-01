@@ -1,0 +1,10 @@
+1- banco de dados
+2- React.js
+3- Segurança(basica)
+4- Server local ou google
+5- cvs -> GitHub
+6- UI e UX 
+7- Provaveis ods -> 11, 9, 8, 7, 3, 13, 12
+8- Funcionalidades -> ver com Erika
+9- Persona -> Temos que definir
+10- Falar com Ines
